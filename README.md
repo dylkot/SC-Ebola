@@ -1,6 +1,7 @@
-# EbolaSC
-Analysis scripts used in the analysis of Seq-Well and CyTOF datasets of Ebola virus infected PBMCs
+# sc-Ebola
+Analysis scripts used in the analysis of Seq-Well and CyTOF datasets of Ebola virus infected PBMCs for the manuscript: **Single-cell profiling of Ebola virus infection in vivo reveals viral and host transcriptional dynamics**
 
+# Directory structure
 - setup.sh          - commands to create the conda environment used for all of the analysis
 - Code              - libraries of functions used throughout the analysis
 - Analysis          - Jupyter notebooks for running the pipelines and generating the figures in the manuscript
