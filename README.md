@@ -3,7 +3,7 @@ Analysis scripts used in the analysis of Seq-Well and CyTOF datasets of Ebola vi
 
 # Directory structure
 - setup.sh          - commands to create the conda environment used for all of the analysis
-- Code              - libraries of functions used throughout the analysis
+- Code              - libraries used throughout the analysis
 - Analysis          - Jupyter notebooks for running the pipelines and generating the figures in the manuscript
 	- InVivo          - Analysis of Seq-Well and CyTOF data from Ebola infected rhesus macaques
 	- ExVivo          - Analysis of Seq-Well data from PBMCs extracted from rhesus macaques and infected ex vivo
