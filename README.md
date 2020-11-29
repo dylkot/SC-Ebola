@@ -1,5 +1,12 @@
 # sc-Ebola
-Analysis scripts used in the analysis of Seq-Well and CyTOF datasets of Ebola virus infected PBMCs for the manuscript [Single-cell profiling of Ebola virus infection in vivo reveals viral and host transcriptional dynamics](https://www.sciencedirect.com/science/article/pii/S0092867420313088). See https://github.com/dylkot/dropSeqPipe-dak for the pipeline used to map the  single-cell RNA-Seq reads and to generate the expression count matrices.
+
+<img src="https://github.com/dylkot/SC-Ebola/blob/master/Images/graphicalabstract.jpg" width="400"/>
+
+
+
+
+
+Analysis scripts used in the analysis of Seq-Well and CyTOF datasets of Ebola virus infected PBMCs for the manuscript [Single-cell profiling of Ebola virus infection in vivo reveals viral and host transcriptional dynamics](https://www.sciencedirect.com/science/article/pii/S0092867420313088). See https://github.com/dylkot/dropSeqPipe-dak for the pipeline used to map the  single-cell RNA-Seq reads and to generate the expression count matrices. Image above is the graphical abstract from the manuscript.
 
 # Directory structure
 - setup.sh          - commands to create the conda environment used for all of the analysis
